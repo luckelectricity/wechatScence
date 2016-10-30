@@ -5,7 +5,7 @@ li{list-style: none;}
 .swiper-container,.swiper-wrapper,.swiper-slide{width:100%;height:100%}
 .swiper-slide{#262f2e background:url(../img/1.jpg) no-repeat center;position: relative;}
 h4{font-size:1.5rem;color:yellowgreen;}
-.page1 .box1{width:80%;height:40%;font-size:1.2rem;color:#fff;font-weight: 700;position: absolute;left:1rem;top:4rem}
+.page1 .box1{width:80%;height:40%;font-size:1.2rem;color:#333;font-weight: 700;position: absolute;left:1rem;top:4rem}
 .page1 .box1 img{position: absolute;left:0;top:0}
 .page1 .box1 p{position: absolute;left:1rem}
 .page1 .box1 p:nth-of-type(1){top:1.5rem}
@@ -14,7 +14,7 @@ h4{font-size:1.5rem;color:yellowgreen;}
 .page1 .box2{width:52%;height:1.8rem;position: absolute;right:1rem;top:16rem}
 .page1 .box3{width: 23%;height:4rem;position: absolute;right:1.2rem;bottom: 2.5rem;}
 
-.page2 .box1{width:80%;height:40%;font-size:1.2rem;color:#fff;font-weight: 700;position: absolute;right:1rem;top:4rem}
+.page2 .box1{width:80%;height:40%;font-size:1.2rem;color:#333;font-weight: 700;position: absolute;right:1rem;top:4rem}
 .page2 .box1 img{position: absolute;left:0;top:0}
 .page2 .box1 p{position: absolute;left:1rem}
 .page2 .box1 p:nth-of-type(1){top:1.5rem}
@@ -29,7 +29,7 @@ h4{font-size:1.5rem;color:yellowgreen;}
 .page3 .box2 :nth-child(1){position: absolute;left:0rem;top:0rem;}
 .page3 .box2 :nth-child(2){position: absolute;left:2.1rem;top:-3.6rem;}
 .page3 .box2 :nth-child(3){position: absolute;left:6rem;top:-3.8rem;}
-.page3 .box3{width:70%;height:30%;font-size:1.2rem;color:#fff;font-weight: 700;position: absolute;right:0.8rem;bottom:4rem}
+.page3 .box3{width:70%;height:30%;font-size:1.2rem;color:#333;font-weight: 700;position: absolute;right:0.8rem;bottom:4rem}
 .page3 .box3 img{position: absolute;left:0;top:0}
 .page3 .box3 p{position: absolute;left:2.5rem}
 .page3 .box3 p:nth-of-type(1){top:3rem}
@@ -61,10 +61,10 @@ h4{font-size:1.5rem;color:yellowgreen;}
 .page6 .box2 :nth-child(1){position: absolute;left:0;top:0}
 .page6 .box2 :nth-child(2){width:30%;height: 39%;position: absolute;left:50%;top:73%;margin:-25% -25%}
 .page6 .box3{width:100%;height:40%;position: absolute;top:19rem;}
-.page6 .box3 li{height:1rem;padding-left:1rem;font-size:0.6rem;color:#fff;font-weight: 800;}
+.page6 .box3 li{height:1rem;padding-left:1rem;font-size:0.6rem;color:#333;font-weight: 800;}
 .page6 .box3 li img{width:4%;height:71%;float: left;}
 .page6 .box3 li span{float: left;margin-left:0.4rem}
-.page7{text-align: center;color:#fff;font-size:0.75rem;line-height: 1.5rem;font-weight: 700;padding-top:30%;height:70%}
+.page7{text-align: center;color:#333;font-size:0.75rem;line-height: 1.5rem;font-weight: 700;padding-top:30%;height:70%}
 .page7 p:nth-child(even){color:yellowgreen}
 .page7 p:nth-child(4){font-weight: 900;font-size: 1.5rem;}
 .page7 p:nth-child(5){font-size: 0.6rem;}
